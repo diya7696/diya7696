@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diya
 - 👀 I’m interested in Only and only myself
 - 🌱 I’m currently learning coding at whitehatjr.com
-- 💞️ I’m not at all looking to collaborate on anythng
+- 💞️ I’m not at all looking to collaborate on anything
 - 📫 How to reach me...pz don't
 
 <!---
